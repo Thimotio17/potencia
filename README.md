@@ -1,0 +1,2 @@
+# potencia
+calcula com soma
